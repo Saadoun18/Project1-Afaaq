@@ -1,6 +1,6 @@
 # Simple Project — Portfolio Demo
 
-This tiny project contains a minimal landing page and a simple portfolio hero section.
+This project is part of my training journey with AfaaqWare, where I am learning Git, GitHub, API Basics, React, and more while building small frontend projects.
 
 Files:
 
